@@ -9,10 +9,6 @@ body {
 /* Remove trailing whitespace at the end of line 2 */
 p {
   color: red;
-}
-
-/* Add newline before closing brace at line 3 */
-p {
   font-size: 16px;
 }
 
