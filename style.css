@@ -1,0 +1,20 @@
+/* Corrected style.css */
+
+/* Fix indentation at line 2 */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove trailing whitespace at the end of line 2 */
+p {
+  color: red;
+  font-size: 16px;
+}
+
+/* Remove trailing whitespace at the end of line 4 */
+h1 {
+  font-weight: bold;
+}
+
+/* Add newline at the end of the file */
